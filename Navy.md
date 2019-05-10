@@ -1,5 +1,11 @@
 # Navy
 
+### Movement by water
+Water movement can be along coasts, or rivers, or into open sea zones, or out of open sea zones. Barques are not allowed into open sea zones. Roundships are not allowed to sail along rivers. Barques may carry 100 units of cargo. Galliots may carry 300. Caravels may carry 500. Roundships may carry 1,000. Galleys may carry 2,000. In water movement, cannons count as 100 units of cargo, falconets as three, light cavalry as three, horses as two, heavy cavalry as four, crew and troops count as one, and all other trade goods count as one unit of cargo. Speed is doubled when a fleet includes no galleys, barques or galliots. Galleys require 100 crew. Galliots and caravels require 20. Roundships require 50. Barques require 10. Overloaded ships may not move.
+
+In movement by water, basic speed is four leagues per hour. When barques, galliots or galleys are included, basic speed is two leagues per hour. In both cases, effective speed is equal to basic speed multiplied by navigation skill divided by 1,000. 
+
+
 ## Barque
 Barques are ships used for 'riverine' and 'coastal' transport. They are not allowed to engage in 'sea' movement. Each barque can carry 100 units of cargo. Barques will not sail with fewer than ten crew. To build a barque, one must have a barquebuilding rating of at least 900 and expend 100 timber, 100 cordage, 100 pitch, 1 sail and 100 coins. The coins are added to the town's wealth. The builder may not use his barquebuilding skill again for ten days minus a number of minutes equal to three times the total of his barquebuilding skill and the town's shipyard structure rating. No maintenance attrition is extracted from a character's first barque. Additional barques deteriorate by one-tenth of one percent each day.
 ## Blockade
