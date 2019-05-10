@@ -1,6 +1,4 @@
----
 # Court Officers
----
 
 ## Admiral
 To be appointed Admiral, one must have a navigation rating of at least 500. An Admiral may receive troops, ships, crew and falconets from his Suzerain.

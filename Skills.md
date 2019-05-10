@@ -1,6 +1,4 @@
----
 # Skills
----
 
 ## Administration
 Administration skill is used for many governmental activities including appointments.

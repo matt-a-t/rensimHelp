@@ -1,3 +1,5 @@
+# General
+
 ## Action
 All acts carried out by a character constitute an Action. Most Actions entail the expenditure of an Initiative. Characters who have sufficient Initiatives may execute multiple Actions during the same day.
 

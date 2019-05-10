@@ -1,3 +1,5 @@
+# Navy
+
 ## Barque
 Barques are ships used for 'riverine' and 'coastal' transport. They are not allowed to engage in 'sea' movement. Each barque can carry 100 units of cargo. Barques will not sail with fewer than ten crew. To build a barque, one must have a barquebuilding rating of at least 900 and expend 100 timber, 100 cordage, 100 pitch, 1 sail and 100 coins. The coins are added to the town's wealth. The builder may not use his barquebuilding skill again for ten days minus a number of minutes equal to three times the total of his barquebuilding skill and the town's shipyard structure rating. No maintenance attrition is extracted from a character's first barque. Additional barques deteriorate by one-tenth of one percent each day.
 ## Blockade

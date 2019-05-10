@@ -1,3 +1,5 @@
+# Combat
+
 ## Alcohol
 Wine, beer, ale or spirits may be given to troops, or crew, to raise their morale. No more than one unit of alcohol may be imbibed per man per day. The increase per unit of alcohol is equal to 20 plus one one thousandth of the character's intoxication rating. Should the number of units of alcohol be smaller than the number of recipients, the morale increase is proportionately reduced. (To qualify to be used for this purpose, it is not sufficient that a trade good be a type of alcohol, wine, ale, beer or spirits. It must be listed as wine, beer, ale or spirits in the asset list of the character.)
 

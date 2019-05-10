@@ -1,3 +1,5 @@
+# Merchantry
+
 ## Abandon Trade Goods
 Abandoning trade goods removes them from one's assets, which (depending on the type of trade goods being abandoned) may reduce the need for transport or allow for faster movement.
 ## Banker Loan

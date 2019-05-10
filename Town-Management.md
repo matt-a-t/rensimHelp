@@ -1,3 +1,5 @@
+# Town Management
+
 ## Aid
 A character present at a town over which he is sovereign may collect a feudal Aid in coins equal to 5% of the town's wealth. The funds are taken from the town's wealth. The sovereign's family loses 100 points of loyalty at the town. The sovereign's administrative skill may not be used again for seven days.
 
