@@ -1,6 +1,10 @@
 # General
 
+
+
 ## Newbie
+
+
 
 ### Action
 All acts carried out by a character constitute an Action. Most Actions entail the expenditure of an Initiative. Characters who have sufficient Initiatives may execute multiple Actions during the same day.
@@ -92,26 +96,53 @@ Also during the daily update, each town receives a wealth increment equal to 20%
 
 
 
+## Skills
 
 
 
+### Herb
+At each town, one type of herb is available for collection. Only females may collect herbs. The number of herbs collected in one action is equal to one plus one percent of the collector's herbalism rating. Herbs may be used to meet a town's demand for herbs. 
+
+Females may use herbalism skill to improve a character's actual health. In one action, increase in actual health ratings equals 0.01 plus one-tenth of the quantity of different types of herbs being used plus one four-thousandth of the herbalist's herbalism rating plus one four-thousandth of the rating of the town's hospital structure. 
+
+When a herbalist offers to use herbs to heal someone, her herbalism rating is tied up for 5 days.
+
+### Hunt
+Hunting increases one's prestige by one point. It reduces actual health by 0.003 points. Hunting skill is tied up for 48 hours minus a number of minutes equal to one's hunting rating.
+
+### Instruction
+When a character instructs in a skill another member of his family, the instructor's skill is tied up for 24 hours. No acceptance by the instructee is required. 
+
+A character may offer to instruct someone not in his family for a fixed number of coins per skill point gained. Instruction takes place upon acceptance by the instructee. The instructor's skill is tied up for 24 hours.
+
+The instructee's skill increase is equal to 1 + 1/100th of the difference between their difference in rating times the structure multiplier. The structure multiplier is equal to 0.5 + 1/1,000 of the size of the pertinent structure. If the instructee's skill rating is below 500, the pertinent structure is the Athenaeum. If the instructee's skill rating is under 1,000 but not under 500, the pertinent structure is the Academy. If the instructee's rating is greater than, or equal to, 1,000, the pertinent structure is the University. The pertinent structure gains one point in size. 
+
+Each town has a local skill. Anyone present at the town may study that skill. Doing so increases the student's skill by one point plus an additional number of points equal to 1/1,000 of the size of the pertinent structure -- as defined in the above paragraph. He may not study, or use, that skill again for 24 hours.
+
+### Letters
+Writing a positive work of letters increases the beneficiary's prestige by a number of points approximately equal to one-tenth of the square root of the writer's letters skill. It ties up his letters skill for seven days and increases the size of the town Library by one point.
+
+Writing a negative work of letters reduces the town's loyalty to the victim family by a number approximately equal to one-tenth of the square root of the writer's letters skill. It ties up his letters skill for seven days and increases the size of the town's Library by one point.
+
+### Poison
+Females with poison ratings may poison others at their location. To do so, they must expend a number of coins equal to ten times the victim's prestige rating. The victim's loss of actual health is equal to one one-hundred-and-fiftieth of the poisoner's poison rating minus the total of the victim's poison rating plus the town's Hospital structure size. (Health Loss = (poisoner poison rating - victim poison rating - hospital size)/150). Lost actual health that does not cause death can be regained through herbalism. Poison skill may not be used more than once each thirty days. If the victim's health rating is at, or below, zero at the time of the next daily update, he dies. Poison skill determines the effectiveness of poisoning attempts. Defensively, it offsets a poisoner's poisoning skill.
+
+### Sculpture
+Producing a sculpture costs a number of coins equal to 2,000 minus the sculptor's sculpting rating. This rating may not be used again for 90 days minus a number of minutes equal to the total of his sculpting rating times 100 plus the town's gallery rating times 10, but the resulting figure may not be less than 30 days. The town's gallery rating increases by two points each time a sculpture is made. 
+
+Sculptures may be donated to a Gallery. Donating a sculpture to a Gallery increases the donor's prestige by four, the Gallery's size by four and the town's loyalty to the donor's family by tewnty.
+
+### Statuettes
+One statuette may be produced for each full hundred points in one's sculpting skill. Regardless of the number of statuettes produced, the process ties up the sculptor's skill for seven days. Each statuette is a trade good falling into the category of art. When statuettes are produced in a town with a pre-existing Gallery, the Gallery increases in size by 0.1 points.
+
+### Work of letters
+Writing a positive work of letters increases the beneficiary's prestige by a number of points approximately equal to one-tenth of the square root of the writer's letters skill. It ties up his letters skill for seven days and increases the size of the town Library by one point.
+
+Writing a negative work of letters reduces the town's loyalty to the victim family by a number approximately equal to one-tenth of the square root of the writer's letters skill. It ties up his letters skill for seven days and increases the size of the town's Library by one point.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Titles
 
 
 
@@ -130,21 +161,8 @@ A hereditary title may be acquired through the expenditure of three million coin
 ### Doge
 The Doge of Venice is elected for life by the male citizens of the city of Venice. The Doge of Genoa is elected for life by the male citizens of Genoa. To qualify for election, a candidate must vote for himself. In addition to votes actively cast, a candidate receives a number of votes equal to his politics rating divided by 1,000. Upon election, a new Doge is divested of any magistracy and any town structure headship he may hold.
 
-### Feast days
-Celebrating a town's Feast Day earns the celebrator's family a loyalty increase equal to 10% of his prestige. In addition, he receives a piety increase equal to ten plus a number of points equal to 1/1,000 of the total of the size of the Church plus the Archpriest's sermonizing rating plus the attendee's churchgoing rating. The costs are the same as for attending mass. Celebrating a Feast Day ties up a character's churchgoing skill for 24 hours. A character who has attended mass may not celebrate a Feast Day during the subsequent 24 hours.
-
-### Ferries
-A ferry runs between Otranto in Italy and Acre in Palestine. Any Catholic may use it. It leaves whenever demanded and arrives 21 days after departure. Service cannot be interrupted, nor intercepted. Travel from Acre to Otranto is free to all characters and their troops. Travel from Otranto to Acre costs 1,000 coins per character and 300 coins per troop. In each direction there is a fee of 5 coins per trade good. Ships may not travel by ferry. Ferry tolls on Court Office assets must be paid with Court Office coins. Ferry tolls on personal assets must be paid with personal coins. This ferry will run at least until the end of 1499/2021.
-
 ### Gonfaloniere
 The position of Gonfaloniere of Florence is vacated each year on October 1. The position may then be filled by an election that lasts ten days from the date of the casting of the first vote. The Gonfaloniere is elected by the male citizens of the city of Florence. To qualify for election, a candidate must vote for himself. In addition to votes actively cast, a candidate receives a number of votes equal to his politics rating divided by 1,000.
-
-### Herb
-At each town, one type of herb is available for collection. Only females may collect herbs. The number of herbs collected in one action is equal to one plus one percent of the collector's herbalism rating. Herbs may be used to meet a town's demand for herbs. 
-
-Females may use herbalism skill to improve a character's actual health. In one action, increase in actual health ratings equals 0.01 plus one-tenth of the quantity of different types of herbs being used plus one four-thousandth of the herbalist's herbalism rating plus one four-thousandth of the rating of the town's hospital structure. 
-
-When a herbalist offers to use herbs to heal someone, her herbalism rating is tied up for 5 days.
 
 ### Heir
 When a character's health level reaches zero, he dies. The personal assets of a dead character cease to exist. His Court Office assets continue to exist at their final location until they are picked up by his successor, or subjected to destructive attack. Hereditary titles are passed on to his heir. So are banker loan rights and liabilities.
@@ -155,26 +173,31 @@ Holders of hereditary titles receive daily prestige increases. They may appoint 
 ### Honorary titles
 Honorary titles, such as that of Count-Palatine of the Empire, confer prestige upon their holder, but do not entitle him to appoint Court Officers. They may not be used to assign sovereignty, nor feudatory status, nor tenancy, over a town.
 
-### Hunt
-Hunting increases one's prestige by one point. It reduces actual health by 0.003 points. Hunting skill is tied up for 48 hours minus a number of minutes equal to one's hunting rating.
-
-### Instruction
-When a character instructs in a skill another member of his family, the instructor's skill is tied up for 24 hours. No acceptance by the instructee is required. 
-
-A character may offer to instruct someone not in his family for a fixed number of coins per skill point gained. Instruction takes place upon acceptance by the instructee. The instructor's skill is tied up for 24 hours.
-
-The instructee's skill increase is equal to 1 + 1/100th of the difference between their difference in rating times the structure multiplier. The structure multiplier is equal to 0.5 + 1/1,000 of the size of the pertinent structure. If the instructee's skill rating is below 500, the pertinent structure is the Athenaeum. If the instructee's skill rating is under 1,000 but not under 500, the pertinent structure is the Academy. If the instructee's rating is greater than, or equal to, 1,000, the pertinent structure is the University. The pertinent structure gains one point in size. 
-
-Each town has a local skill. Anyone present at the town may study that skill. Doing so increases the student's skill by one point plus an additional number of points equal to 1/1,000 of the size of the pertinent structure -- as defined in the above paragraph. He may not study, or use, that skill again for 24 hours.
-
 ### Leagues
 A league headed by his suzerain may be created by any Ambassador. Doing so ties up his diplomacy skill for seven days. New members may be invited by an Ambassador to join a league headed by his suzerain who is himself a member of the league. Nuncios do so for the League of the Pope. An invitation ties up the inviter's diplomacy skill for 24 hours. Invitations expire after seven days. A character who is a member of one league may not accept membership in another league until he has resigned his membership in the first league. Characters join leagues as individuals. Members of one family may belong to different leagues.
 
+### Marriage
+An unmarried, untonsured male may make an offer of marriage at a town of which he is a citizen. The offer expires at the earlier of 30 days, or the date of his departure from the town. The female accepting the offer must be unmarried and untonsured. If the offer is accepted, the wedding takes place, at the site of the offer, 60 days after the date of the offer. For the wedding to take place, both must be present at the the site of the offer 60 days after the date of the offer. Both must be unmarried and untonsured at the time of the wedding. Everyone present at the town is assumed to be at the wedding. The value of the wedding is deemed to be 1/100 of the sum of the prestige of the attendees. Each attendee receives a prestige increase equal to the value of the wedding. The bride and groom receive double increases. Their two families enter into a marriage alliance.
 
-### Letters
-Writing a positive work of letters increases the beneficiary's prestige by a number of points approximately equal to one-tenth of the square root of the writer's letters skill. It ties up his letters skill for seven days and increases the size of the town Library by one point.
+The effects of a wedding are calculated during, and based on the situation at, the time of the first update after the ceremony.
 
-Writing a negative work of letters reduces the town's loyalty to the victim family by a number approximately equal to one-tenth of the square root of the writer's letters skill. It ties up his letters skill for seven days and increases the size of the town's Library by one point.
+### Marriage alliances
+When two families are in a marriage alliance, should a member of either family issue battle orders against a member of the other family, or against a strongpoint owned by that family, or against a town de facto control of which is held by that family, the character issuing the battle orders suffers a loss of 300 points of prestige. Should he have fewer than 300 points of prestige, his troops will refuse to follow him into battle and the battle orders will fail.
+
+### Title
+There are various types of titles. Hereditary titles are those which are passed from an individual to his heir. Elective titles include the Doge of Venice, the Doge of Genoa, the Pope, Grandmasters of monastic orders, Bishops, Archbishops and Magistrates. Honorary titles are not inherited. A hereditary title may be acquired through the expenditure of three million coins for conspicuous consumption. The new title will have the form: Lord of X, with X being determined through consultation with the Gamemaster.
+
+
+
+## Misc
+
+
+
+### Feast days
+Celebrating a town's Feast Day earns the celebrator's family a loyalty increase equal to 10% of his prestige. In addition, he receives a piety increase equal to ten plus a number of points equal to 1/1,000 of the total of the size of the Church plus the Archpriest's sermonizing rating plus the attendee's churchgoing rating. The costs are the same as for attending mass. Celebrating a Feast Day ties up a character's churchgoing skill for 24 hours. A character who has attended mass may not celebrate a Feast Day during the subsequent 24 hours.
+
+### Ferries
+A ferry runs between Otranto in Italy and Acre in Palestine. Any Catholic may use it. It leaves whenever demanded and arrives 21 days after departure. Service cannot be interrupted, nor intercepted. Travel from Acre to Otranto is free to all characters and their troops. Travel from Otranto to Acre costs 1,000 coins per character and 300 coins per troop. In each direction there is a fee of 5 coins per trade good. Ships may not travel by ferry. Ferry tolls on Court Office assets must be paid with Court Office coins. Ferry tolls on personal assets must be paid with personal coins. This ferry will run at least until the end of 1499/2021.
 
 ### Maintenance
 Certain assets must be maintained daily. This maintenance is extracted automatically during the daily update. When the materials needed for maintenance are not held by the character, the affected asset automatically suffers maintenance attrition. It is up to the player to have the necessary materials on hand, or not (if he prefers to sustain the maintenance attrition). These maintainable assets include troops, crew, slaves, servants, horses, goats and cattle. Assets -- other than ships -- that are not fully maintained suffer maintenance attrition at the rate of one percent per day. A character's first 20 heavy cavalry require no maintenance, nor do his first one hundred cattle and horses, nor do his first 200 light cavalry, bowmen, pikemen, arquebusiers, auxiliaries, slaves and crew. Additional heavy cavalry require 0.4 units of grain each per day. Additional light cavalry, bowmen, pikemen and arquebusiers require 0.2 units of grain each per day. Additional auxiliaries,crew, horses, camels, cattle, goats and sheep require 0.1 units of grain each per day. Additional slaves require 0.04 units of grain each per day. When any of the above units are insufficiently maintained, they suffer one percent attrition per day. When a character has insufficient grain to support all of his assets, available grain is applied first to troops, then horses, then other animals.
@@ -191,36 +214,8 @@ All servants require 0.1 coins maintenance per day. One percent of all unmaintai
 
 Maximum health diminishes by 1/365 of one point per day.
 
-### Marriage
-An unmarried, untonsured male may make an offer of marriage at a town of which he is a citizen. The offer expires at the earlier of 30 days, or the date of his departure from the town. The female accepting the offer must be unmarried and untonsured. If the offer is accepted, the wedding takes place, at the site of the offer, 60 days after the date of the offer. For the wedding to take place, both must be present at the the site of the offer 60 days after the date of the offer. Both must be unmarried and untonsured at the time of the wedding. Everyone present at the town is assumed to be at the wedding. The value of the wedding is deemed to be 1/100 of the sum of the prestige of the attendees. Each attendee receives a prestige increase equal to the value of the wedding. The bride and groom receive double increases. Their two families enter into a marriage alliance.
-
-The effects of a wedding are calculated during, and based on the situation at, the time of the first update after the ceremony.
-
-### Marriage alliances
-When two families are in a marriage alliance, should a member of either family issue battle orders against a member of the other family, or against a strongpoint owned by that family, or against a town de facto control of which is held by that family, the character issuing the battle orders suffers a loss of 300 points of prestige. Should he have fewer than 300 points of prestige, his troops will refuse to follow him into battle and the battle orders will fail.
-
-### Poison
-Females with poison ratings may poison others at their location. To do so, they must expend a number of coins equal to ten times the victim's prestige rating. The victim's loss of actual health is equal to one one-hundred-and-fiftieth of the poisoner's poison rating minus the total of the victim's poison rating plus the town's Hospital structure size. (Health Loss = (poisoner poison rating - victim poison rating - hospital size)/150). Lost actual health that does not cause death can be regained through herbalism. Poison skill may not be used more than once each thirty days. If the victim's health rating is at, or below, zero at the time of the next daily update, he dies. Poison skill determines the effectiveness of poisoning attempts. Defensively, it offsets a poisoner's poisoning skill.
-
 ### Recruit
 Towns have a limited number of recruits available. When troops, crew or servants are engaged, their number is subtracted from the number of recruits available at the town. Each town's recruit pool increases by one each day. For each initiative expended, the number of recruits that may be recruited is equal to one plus 1/100th of the family's loyalty rating at the town.
 
-### Sculpture
-Producing a sculpture costs a number of coins equal to 2,000 minus the sculptor's sculpting rating. This rating may not be used again for 90 days minus a number of minutes equal to the total of his sculpting rating times 100 plus the town's gallery rating times 10, but the resulting figure may not be less than 30 days. The town's gallery rating increases by two points each time a sculpture is made. 
-
-Sculptures may be donated to a Gallery. Donating a sculpture to a Gallery increases the donor's prestige by four, the Gallery's size by four and the town's loyalty to the donor's family by tewnty.
-
 ### Servant
 Servants may be recruited for a price of ten coins each. They require daily maintenance of 0.1 coins. Unpaid servants suffer one percent attrition per day. Each day, the holder of the greatest number of servants gains 1.0 points of prestige. Characters are expected to have 0.01 servants per point of prestige. Each day, failure to have enough servants reduces their prestige by 0.001 points per missing 0.01 servants (in other words, they lose 0.1 points of prestige for each missing servant).
-
-
-### Statuettes
-One statuette may be produced for each full hundred points in one's sculpting skill. Regardless of the number of statuettes produced, the process ties up the sculptor's skill for seven days. Each statuette is a trade good falling into the category of art. When statuettes are produced in a town with a pre-existing Gallery, the Gallery increases in size by 0.1 points.
-
-### Title
-There are various types of titles. Hereditary titles are those which are passed from an individual to his heir. Elective titles include the Doge of Venice, the Doge of Genoa, the Pope, Grandmasters of monastic orders, Bishops, Archbishops and Magistrates. Honorary titles are not inherited. A hereditary title may be acquired through the expenditure of three million coins for conspicuous consumption. The new title will have the form: Lord of X, with X being determined through consultation with the Gamemaster.
-
-### Work of letters
-Writing a positive work of letters increases the beneficiary's prestige by a number of points approximately equal to one-tenth of the square root of the writer's letters skill. It ties up his letters skill for seven days and increases the size of the town Library by one point.
-
-Writing a negative work of letters reduces the town's loyalty to the victim family by a number approximately equal to one-tenth of the square root of the writer's letters skill. It ties up his letters skill for seven days and increases the size of the town's Library by one point.
