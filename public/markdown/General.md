@@ -1,8 +1,6 @@
----------
 # General
+
 ---------
-
-
 ## Newbie
 ---------
 
@@ -94,7 +92,7 @@ Taxes, tithes, amercements, aids, the remuneration of structure heads and the gr
 During the daily update, towns with above average wealth receive a population increase equal to one plus one tenth of one percent of their existing population.
 Also during the daily update, each town receives a wealth increment equal to 20% of its population.
 
-
+---------
 ## Skills
 ---------
 
@@ -138,7 +136,7 @@ Writing a positive work of letters increases the beneficiary's prestige by a num
 
 Writing a negative work of letters reduces the town's loyalty to the victim family by a number approximately equal to one-tenth of the square root of the writer's letters skill. It ties up his letters skill for seven days and increases the size of the town's Library by one point.
 
-
+---------
 ## Titles
 ---------
 
@@ -172,6 +170,9 @@ Honorary titles, such as that of Count-Palatine of the Empire, confer prestige u
 ### Leagues
 A league headed by his suzerain may be created by any Ambassador. Doing so ties up his diplomacy skill for seven days. New members may be invited by an Ambassador to join a league headed by his suzerain who is himself a member of the league. Nuncios do so for the League of the Pope. An invitation ties up the inviter's diplomacy skill for 24 hours. Invitations expire after seven days. A character who is a member of one league may not accept membership in another league until he has resigned his membership in the first league. Characters join leagues as individuals. Members of one family may belong to different leagues.
 
+### Commander
+The local commander for a League is the first of the following present at the location: the Head of the League, next his Marshal, then his Constable.
+
 ### Marriage
 An unmarried, untonsured male may make an offer of marriage at a town of which he is a citizen. The offer expires at the earlier of 30 days, or the date of his departure from the town. The female accepting the offer must be unmarried and untonsured. If the offer is accepted, the wedding takes place, at the site of the offer, 60 days after the date of the offer. For the wedding to take place, both must be present at the the site of the offer 60 days after the date of the offer. Both must be unmarried and untonsured at the time of the wedding. Everyone present at the town is assumed to be at the wedding. The value of the wedding is deemed to be 1/100 of the sum of the prestige of the attendees. Each attendee receives a prestige increase equal to the value of the wedding. The bride and groom receive double increases. Their two families enter into a marriage alliance.
 
@@ -183,7 +184,7 @@ When two families are in a marriage alliance, should a member of either family i
 ### Title
 There are various types of titles. Hereditary titles are those which are passed from an individual to his heir. Elective titles include the Doge of Venice, the Doge of Genoa, the Pope, Grandmasters of monastic orders, Bishops, Archbishops and Magistrates. Honorary titles are not inherited. A hereditary title may be acquired through the expenditure of three million coins for conspicuous consumption. The new title will have the form: Lord of X, with X being determined through consultation with the Gamemaster.
 
-
+-------
 ## Misc
 -------
 

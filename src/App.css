@@ -4,8 +4,8 @@ body {
 
 article {
 	/* background-color: #fff; */
-	margin: 40px;
-	padding: 40px;
+	margin: 0 40px;
+	padding: 0 40px;
 }
 
 nav {
@@ -17,10 +17,28 @@ nav {
 nav button {
 	border: none;
 	background-color: #641d00;
+	box-shadow: 0 5px 10px black;
 	color: #fff;
 	cursor: pointer;
 	/* display: inline; */
 	flex-grow: 1;
 	font-size: 14px;
 	height: 50px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 48px;
+}
+
+h2 {
+	font-size: 36px;
+	margin-left: 40px;
+}
+
+hr {
+	height: 5px;
+	background-color: #641d00;
+	border: none;
+	box-shadow: 5px 5px 10px black;
 }
