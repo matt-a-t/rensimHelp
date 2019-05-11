@@ -1,6 +1,6 @@
 {
   "name": "rensim-help",
-  "homepage": "http://matt-a-t.github.io/rensimHelp",
+  "homepage": "https://matt-a-t.github.io/rensimHelp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
