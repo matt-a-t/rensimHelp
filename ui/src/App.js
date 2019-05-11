@@ -3,12 +3,28 @@ import './App.css';
 import ReactMarkdown from 'react-markdown'
 
 class App extends React.Component {
-	render() {
-		const markdown = '# Heading'
+	constructor() {
+		super()
 
+		this.state = {
+			general: ''
+		}
+	}
+
+	componentWillMount() {
+		fetch('../General.md').then(res => res.text()).then(text => this.setState({ general: text }))
+	}
+	
+	render() {
 		return (
 			<div className="App">
-				<ReactMarkdown source={markdown} />
+				<nav>
+					<li><a href='#begging'>General</a></li>
+				</nav>
+				<div id='general'>
+					<ReactMarkdown 
+						source={this.state.general} />
+				</div>
 			</div>
 		);
 	}
