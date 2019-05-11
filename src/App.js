@@ -23,14 +23,14 @@ class App extends React.Component {
 	}
 
 	componentWillMount() {
-		fetch('./General.md').then(res => res.text()).then(text => this.setState({ general: text }))
-		fetch('./Church.md').then(res => res.text()).then(text => this.setState({ church: text }))
-		fetch('./Combat.md').then(res => res.text()).then(text => this.setState({ combat: text }))
-		fetch('./Court-Offices.md').then(res => res.text()).then(text => this.setState({ courtOffices: text }))
-		fetch('./Merchantry.md').then(res => res.text()).then(text => this.setState({ merchantry: text }))
-		fetch('./Navy.md').then(res => res.text()).then(text => this.setState({ navy: text }))
-		fetch('./Skills.md').then(res => res.text()).then(text => this.setState({ skills: text }))
-		fetch('./Town-Management.md').then(res => res.text()).then(text => this.setState({ townManagement: text }))
+		fetch('./markdown/General.md').then(res => res.text()).then(text => this.setState({ general: text }))
+		fetch('./markdown/Church.md').then(res => res.text()).then(text => this.setState({ church: text }))
+		fetch('./markdown/Combat.md').then(res => res.text()).then(text => this.setState({ combat: text }))
+		fetch('./markdown/Court-Offices.md').then(res => res.text()).then(text => this.setState({ courtOffices: text }))
+		fetch('./markdown/Merchantry.md').then(res => res.text()).then(text => this.setState({ merchantry: text }))
+		fetch('./markdown/Navy.md').then(res => res.text()).then(text => this.setState({ navy: text }))
+		fetch('./markdown/Skills.md').then(res => res.text()).then(text => this.setState({ skills: text }))
+		fetch('./markdown/Town-Management.md').then(res => res.text()).then(text => this.setState({ townManagement: text }))
 	}
 	
 	setPage(newPage) {
