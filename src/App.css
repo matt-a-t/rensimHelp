@@ -8,6 +8,13 @@ article {
 	padding: 0 40px;
 }
 
+@media screen and (min-width: 700px) {
+	article {
+		width: 600px;
+		margin-left: calc(50% - 340px);
+	}
+} 
+
 nav {
 	display: flex;
 	position: sticky;
@@ -41,4 +48,5 @@ hr {
 	background-color: #641d00;
 	border: none;
 	box-shadow: 5px 5px 10px black;
+	margin: 40px 0;
 }
