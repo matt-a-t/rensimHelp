@@ -167,6 +167,14 @@ Holders of hereditary titles receive daily prestige increases. They may appoint 
 ### Honorary titles
 Honorary titles, such as that of Count-Palatine of the Empire, confer prestige upon their holder, but do not entitle him to appoint Court Officers. They may not be used to assign sovereignty, nor feudatory status, nor tenancy, over a town.
 
+### Elections
+When an elective position is vacant, anyone eligible to vote for the position may initiate an election by casting the first vote. Elections generally last about thirty days. Their inception is listed in the report of events. Papal elections last thirty days. Normally, only those who voted for themselves are eligible to win. Voting for oneself constitutes an acceptance of the elective position and of the divestiture of any incompatible positions, which is done automatically during the resolution of the elective process. Characters who have been nominated in an election for magistrate, bishop or archbishop, but are unable to vote for themselves in that election, may render themselves eligible to win by formally accepting (after the election has commenced, and before it ends) their potential election. This type of acceptance ties up the characters politics skill for 30 days, and subjects him to the same divestiture rules as a regular candidate. In any election in which they cast a vote, candidates receive a number of bonus votes equal to 1/1,000 of their rating for political skill.
+
+Elections are resolved during the first update subsequent to the scheduled termination time for the election.
+
+### Elective Title
+The Pope, the Holy Roman Emperor, archbishops, bishops, the Grandmasters of the monastic orders, the Doge of Venice, the Doge of Genoa and some magistracies are elective. 
+
 ### Leagues
 A league headed by his suzerain may be created by any Ambassador. Doing so ties up his diplomacy skill for seven days. New members may be invited by an Ambassador to join a league headed by his suzerain who is himself a member of the league. Nuncios do so for the League of the Pope. An invitation ties up the inviter's diplomacy skill for 24 hours. Invitations expire after seven days. A character who is a member of one league may not accept membership in another league until he has resigned his membership in the first league. Characters join leagues as individuals. Members of one family may belong to different leagues.
 
