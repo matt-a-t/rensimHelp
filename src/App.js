@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import ReactMarkdown from 'react-markdown'
 
 import Article from './Article'
 
