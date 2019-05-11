@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rensimHelp/precache-manifest.96f7f76fef00c9d8ab4f345dae0d0481.js"
+  "/rensimHelp/precache-manifest.4af908c2cbaafc0cca1493a19693a59e.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0c77a9c6aea952d38f5240635a89d4a",
+    "revision": "5b1a76566ef9d5beaa5993a56b950989",
     "url": "/rensimHelp/index.html"
   },
   {
