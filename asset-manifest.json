@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rensimHelp/static/css/main.89548697.chunk.css",
+    "main.js": "/rensimHelp/static/js/main.f1bae54f.chunk.js",
+    "main.js.map": "/rensimHelp/static/js/main.f1bae54f.chunk.js.map",
+    "runtime~main.js": "/rensimHelp/static/js/runtime~main.1faea79d.js",
+    "runtime~main.js.map": "/rensimHelp/static/js/runtime~main.1faea79d.js.map",
+    "static/js/2.3e5eeb5b.chunk.js": "/rensimHelp/static/js/2.3e5eeb5b.chunk.js",
+    "static/js/2.3e5eeb5b.chunk.js.map": "/rensimHelp/static/js/2.3e5eeb5b.chunk.js.map",
+    "index.html": "/rensimHelp/index.html",
+    "precache-manifest.c0a33dc1ec1b0ef030a93a23ad2ab207.js": "/rensimHelp/precache-manifest.c0a33dc1ec1b0ef030a93a23ad2ab207.js",
+    "service-worker.js": "/rensimHelp/service-worker.js",
+    "static/css/main.89548697.chunk.css.map": "/rensimHelp/static/css/main.89548697.chunk.css.map"
+  }
+}
