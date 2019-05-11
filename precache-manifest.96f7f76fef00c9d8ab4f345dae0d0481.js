@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1905095e7bcf3f15859a9ea02afc9f35",
+    "revision": "c0c77a9c6aea952d38f5240635a89d4a",
     "url": "/rensimHelp/index.html"
   },
   {
-    "revision": "3149e83dff7626c94b46",
+    "revision": "9a68d7473d2ade8d4933",
     "url": "/rensimHelp/static/css/main.89548697.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rensimHelp/static/js/2.3e5eeb5b.chunk.js"
   },
   {
-    "revision": "3149e83dff7626c94b46",
-    "url": "/rensimHelp/static/js/main.f1bae54f.chunk.js"
+    "revision": "9a68d7473d2ade8d4933",
+    "url": "/rensimHelp/static/js/main.5bbb51ee.chunk.js"
   },
   {
     "revision": "7203fa63020394fccb00",
